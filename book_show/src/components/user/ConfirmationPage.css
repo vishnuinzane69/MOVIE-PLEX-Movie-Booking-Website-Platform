@@ -1,0 +1,26 @@
+/* ConfirmationPage.css */
+
+body, html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(135deg, #FFDEE9, #B5FFFC);
+}
+
+.bg-custom {
+  background: linear-gradient(135deg, #FFDEE9, #B5FFFC);
+}
+
+.confirmation-card {
+  max-width: 500px;
+  border-radius: 15px;
+  background: linear-gradient(135deg, #89FFFD, #EF32D9);
+  color: white;
+  padding: 20px;
+}
+
+.qr-code {
+  background:linear-gradient(135deg, #89FFFD, #EF32D9);
+  padding: 10px;
+  border-radius: 10px;
+}
